@@ -1,0 +1,37 @@
+.particles-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.particula {
+  position: absolute;
+  bottom: -40px;
+  color: #5B5FEF; /* Sua cor primária */
+  opacity: 0;
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 600;
+  white-space: nowrap;
+  animation-name: subirParticula;
+  animation-timing-function: ease-in;
+  animation-iteration-count: infinite;
+}
+
+@keyframes subirParticula {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0;
+  }
+  8% {
+    opacity: 0.18;
+  }
+  85% {
+    opacity: 0.14;
+  }
+  100% {
+    transform: translate(var(--drift, 0px), -115vh);
+    opacity: 0;
+  }
+}

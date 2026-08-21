@@ -1,0 +1,29 @@
+/* Estado inicial (escondido) */
+.animar-box {
+  opacity: 0;
+  will-change: transform, opacity;
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Tipos de animação inicial */
+.animar-box.surgir-baixo {
+  transform: translateY(40px);
+}
+
+.animar-box.surgir-esquerda {
+  transform: translateX(-40px);
+}
+
+.animar-box.surgir-direita {
+  transform: translateX(40px);
+}
+
+.animar-box.zoom {
+  transform: scale(0.92);
+}
+
+/* Estado quando fica visível na tela */
+.animar-box.visivel {
+  opacity: 1;
+  transform: translate(0, 0) scale(1);
+}
