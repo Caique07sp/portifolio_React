@@ -19,7 +19,7 @@ const PROJETOS_DADOS = [
     titulo: "Tropical Churrascos",
     subtitulo: "Lanchonete & Delivery",
     descricao: "Sistema de cardápio digital dinâmico para consumo presencial e pedidos via web.",
-    imagem: "../projeto2.png",
+    imagem: "../project2.png",
     linkSite: "https://lanchonetecardapio.netlify.app",
     linkGithub: "https://github.com/Caique07sp/Lanchonete-Profissional-HTML-CSS-JS",
     tecnologias: [
@@ -32,7 +32,7 @@ const PROJETOS_DADOS = [
     titulo: "Gaspar Fretes e Mudanças",
     subtitulo: "Sistema Caminhoneiro",
     descricao: "Plataforma para gestão de fretes, controle de viagens e custos logísticos.",
-    imagem: "../projeto4.png",
+    imagem: "../project4.png",
     linkSite: "https://caminhoneiro.netlify.app",
     linkGithub: "https://github.com/Caique07sp/Sistema_Caminhoneiro",
     tecnologias: [
@@ -46,7 +46,7 @@ const PROJETOS_DADOS = [
     subtitulo: "Adoção & Doação",
     destaque: "Destaque",
     descricao: "Sistema completo para adoção de animais com autenticação de usuários, envio de e-mails e gestão de cadastros.",
-    imagem: "../projeto3.png",
+    imagem: "../project3.png",
     linkSite: "https://caminhoneiro.netlify.app",
     linkGithub: "https://github.com/Caique07sp/petconnect-tcc",
     tecnologias: [
