@@ -15,7 +15,7 @@ export function Contact() {
     const data = new FormData(form);
 
     try {
-      const response = await fetch('https://formspree.io/f/mnqvydqj', {
+      const response = await fetch('https://formspree.io/f/xrbkldqv', {
         method: 'POST',
         body: data,
         headers: {
@@ -48,7 +48,7 @@ export function Contact() {
                 <i className="fa-solid fa-envelope"></i>
                 <div>
                   <span>E-mail:</span>
-                  <p><a href="mailto:caique@caique.com">caique@caique.com</a></p>
+                  <p><a href="mailto:Caiquemar47@gmail.com">Caiquemar47@gmail.com</a></p>
                 </div>
               </div>
 
@@ -56,7 +56,7 @@ export function Contact() {
                 <i className="fa-solid fa-phone"></i>
                 <div>
                   <span>Telefone:</span>
-                  <p><a href="tel:+5511999999999">(11) 99999-9999</a></p>
+                  <p><a href="tel:+5519989469124">(19) 19989469124</a></p>
                 </div>
               </div>
 
@@ -64,7 +64,7 @@ export function Contact() {
                 <i className="fa-brands fa-linkedin"></i>
                 <div>
                   <span>LinkedIn:</span>
-                  <p><a href="https://www.linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer">in/caique</a></p>
+                  <p><a href="https://www.linkedin.com/in/dev-caique-martins" target="_blank" rel="noopener noreferrer">in/dev-caique-martins</a></p>
                 </div>
               </div>
 
@@ -72,7 +72,7 @@ export function Contact() {
                 <i className="fa-brands fa-github"></i>
                 <div>
                   <span>GitHub:</span>
-                  <p><a href="https://www.github.com/seu-perfil" target="_blank" rel="noopener noreferrer">github/caique</a></p>
+                  <p><a href="https://github.com/Caique07sp" target="_blank" rel="noopener noreferrer">github/Caique07sp</a></p>
                 </div>
               </div>
 

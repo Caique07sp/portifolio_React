@@ -10,7 +10,7 @@ import { Differential } from './components/Differentials';
 import { Projects } from './components/Projects';
 import { Testimonials } from './components/Testimonials';
 import { Plans } from './components/Plans';
-import { Faq } from './components/Faq';
+import { Faq } from './components/FAQ';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import ParticulasBg from './components/ParticulasBg';

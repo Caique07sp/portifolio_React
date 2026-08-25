@@ -15,13 +15,13 @@ export function Footer() {
           <a href="#contact">Contato</a>
         </div>
         <div className="redes-rodape">
-          <a href="https://www.github.com/seu-perfil" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.github.com/Caique07sp" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-github"></i>
           </a>
-          <a href="https://www.instagram.com/seu-perfil" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/Caique_ofc8" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-instagram"></i>
           </a>
-          <a href="https://www.linkedin.com/in/seu-perfil" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/dev-caique-martins" target="_blank" rel="noopener noreferrer">
             <i className="fa-brands fa-linkedin"></i>
           </a>
         </div>

@@ -54,9 +54,9 @@ export function Header() {
         </nav>
 
         <div className="redes-header">
-          <a href="https://github.com/" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a>
-          <a href="https://instagram.com/" target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a>
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin"></i></a>
+          <a href="https://github.com/Caique07sp" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a>
+          <a href="https://instagram.com/Caique_ofc8" target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a>
+          <a href="https://linkedin.com/in/dev-caique-martins" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin"></i></a>
         </div>
 
         <button 

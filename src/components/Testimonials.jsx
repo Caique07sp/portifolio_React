@@ -4,16 +4,12 @@ import Animations from './Animations';
 const DEPOIMENTOS = [
   { 
     texto: "O Caique entregou nosso cardápio digital super rápido e exatamente do jeito que precisávamos para os eventos. O sistema é leve, fácil dos clientes usarem e facilitou muito nossos atendimentos!", 
-    autor: "Vô Carlão — Buffet & Churrascos" 
+    autor: "Buffet & Churrascos" 
   },
   { 
     texto: "Excelente profissional! Ele desenvolveu o sistema de fretes e controle logístico com muita atenção aos detalhes. A plataforma ficou intuitiva e organizou totalmente nossa rotina.", 
-    autor: "Gaspar — Gaspar Fretes e Mudanças" 
+    autor: "Gaspar Fretes e Mudanças" 
   },
-  { 
-    texto: "Muito atencioso, cumpre todos os prazos e entrega um código extremamente limpo e bem estruturado. Sempre pronto para ajustar o projeto até ficar perfeito!", 
-    autor: "Dra. Mariana — Consultório Odontológico" 
-  }
 ];
 
 export function Testimonials() {
