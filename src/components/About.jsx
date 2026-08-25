@@ -8,7 +8,7 @@ export function About() {
           <div className="about-content">
             <div className="about-img">
 
-              <img src="./src/assets/caique.jpg" alt="Foto de Caique Martins" />
+              <img src="../caique.jpg" alt="Foto de Caique Martins" />
             </div>
 
             <div className="about-text">
