@@ -98,7 +98,7 @@ export function Plans() {
                   ))}
                 </ul>
 
-                <a href="#contato" className="botao-plano">
+                <a href="https://wa.me/5519989469124?text=Ola%20Caique%2C%20vim%20pela%20seu%20site%20e%20tenho%20interesse%20em%20ser%20servi%C3%A7o!" className="botao-plano">
                   {plano.textoBotao}
                 </a>
               </div>

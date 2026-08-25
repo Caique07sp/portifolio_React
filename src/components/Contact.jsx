@@ -56,7 +56,7 @@ export function Contact() {
                 <i className="fa-solid fa-phone"></i>
                 <div>
                   <span>Telefone:</span>
-                  <p><a href="tel:+5519989469124">(19) 19989469124</a></p>
+                  <p><a href="https://wa.me/5519989469124?text=Ola%20Caique%2C%20vim%20pela%20seu%20site%20e%20tenho%20interesse%20em%20ser%20servi%C3%A7o!" target="_blank" rel="noopener noreferrer">(19) 19989469124</a></p>
                 </div>
               </div>
 
