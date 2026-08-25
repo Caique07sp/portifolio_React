@@ -10,12 +10,12 @@ const Animations = ({ children, animacao = 'surgir-baixo', delay = 0 }) => {
       ([entry]) => {
         if (entry.isIntersecting) {
           setVisivel(true);
-          // Se quiser que a animação rode apenas uma vez, desative o observador aqui:
+         
           observador.unobserve(entry.target);
         }
       },
       {
-        threshold: 0.15, // Dispara quando 15% do elemento aparecer na tela
+        threshold: 0.15, 
       }
     );
 
