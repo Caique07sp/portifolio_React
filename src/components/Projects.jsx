@@ -47,7 +47,7 @@ const PROJETOS_DADOS = [
     destaque: "Destaque",
     descricao: "Sistema completo para adoção de animais com autenticação de usuários, envio de e-mails e gestão de cadastros.",
     imagem: "../project3.png",
-    linkSite: "https://caminhoneiro.netlify.app",
+    linkSite: "https://petconnect.infinityfreeapp.com/?i=1",
     linkGithub: "https://github.com/Caique07sp/petconnect-tcc",
     tecnologias: [
       { nome: "PHP", icone: "fa-brands fa-php" },
